@@ -1,0 +1,39 @@
+Category,Question No,Question,Category Name
+1,1,I have a nervous sweat or sweaty palms. ,Physical Indicators
+1,2,I have a hard time feeling really relaxed. ,Physical Indicators
+1,3,I have severe or chronic lower back pain. ,Physical Indicators
+1,4,I have severe or chronic headaches. ,Physical Indicators
+1,5,My stomach quivers or feels upset. ,Physical Indicators
+1,6,I have problems with my bowels ,Physical Indicators
+1,7,My ulcer bothers me. ,Physical Indicators
+1,8,I smoke/eat tobacco. ,Physical Indicators
+1,9,I lack physical energy. ,Physical Indicators
+1,10,"When I'm resting, my heart beats more than 100 times a minute. ",Physical Indicators
+2,1,I have trouble falling asleep. ,Sleep Indicators
+2,2,I take pills to get to sleep. ,Sleep Indicators
+2,3,I have nightmares or repeated bad dreams. ,Sleep Indicators
+2,4,I wake up at least once in the middle of the night for no apparent reason. ,Sleep Indicators
+2,5,"No matter how much sleep I get, I awake feeling tired. ",Sleep Indicators
+3,1,I stutter or get tongue tied when I talk to other people. ,Behavioral Indicators
+3,2,I have to work or think about the work most of the time. ,Behavioral Indicators
+3,3,I go to work even when I feel sick. ,Behavioral Indicators
+3,4,"In any given week, I take at least one prescription drug without the recommendation of a physician, e.g. amphetamines, barbiturates. ",Behavioral Indicators
+3,5,At least once during the week I have a shouting match with a fellow colleague. ,Behavioral Indicators
+3,6,I am reluctant to come to work on time ,Behavioral Indicators
+4,1,I have found the best way to deal with hassles and problems is to consciously avoid thinking or talking about them. ,Emotional Indicators
+4,2,I have trouble remembering things. ,Emotional Indicators
+4,3,I worry a lot. ,Emotional Indicators
+4,4,It is hard for me to relax at home. ,Emotional Indicators
+4,5,It's best if I don't tell even my closest friend how I'm really feeling. ,Emotional Indicators
+4,6,I feel very angry inside. ,Emotional Indicators
+4,7,I have temper outbursts I can't control. ,Emotional Indicators
+4,8,"When people criticize me, even in a friendly, constructive way, I feel offended. ",Emotional Indicators
+4,9,My emotions change unpredictably and without any apparent reason. ,Emotional Indicators
+4,10,I feel like other people don't understand me. ,Emotional Indicators
+4,11,"Generally, I am not optimistic about my future. ",Emotional Indicators
+4,12,Impulsive behavior has caused me problems. ,Emotional Indicators
+5,1,I spend less than three hours a week working on a hobby of mine. ,Personal Habits
+5,2,I spend less than 30 minutes a week talking casually with people around me. ,Personal Habits
+5,3,I watch entertainment content ,Personal Habits
+5,4,My day to day living is not really affected by my religious beliefs or my philosophy of life.,Personal Habits
+5,5,"When I feel stressed, it is difficult for me to plan time and activities to constructively release my stress. ",Personal Habits

@@ -1,0 +1,16 @@
+feature,importance
+C1_sum,0.07644232817028956
+GSR_max_base,0.0720098512650222
+Object_Temperature_std_stress,0.06503674728766362
+C1_mean,0.055165388016597254
+GSR_max_lunch,0.05377731848461379
+Object_Temperature_lunch_vs_base,0.04651815865740588
+Object_Temperature_max_lunch,0.044157247470541436
+Object_Temperature_mean_lunch,0.040926478063527956
+GSR_lunch_vs_base,0.037661369983972744
+Heart_Rate_Ear_std_stress,0.03525606809679051
+Object_Temperature_stress_vs_base,0.03332251053449296
+Heart_Rate_Ear_max_lunch,0.03132765662073961
+GSR_mean_lunch,0.031210476304087287
+baseline_stress_q,0.03076552398123505
+Heart_Rate_Ear_std_lunch,0.022977629282589063
